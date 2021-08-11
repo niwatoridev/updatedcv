@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Nanum+Pen+Script&family=Oswald&family=Roboto&family=Rock+Salt&family=Staatliches&display=swap');
+
+/*Body*/
+body {
+background-color: #F9DFDC;
+color: #000000;
+font-family: 'Roboto', sans-serif;
+  }
+
+a {
+  color: inherit;
+  text-decoration: none;
+  }
+
+/*Divisions HR*/
+hr {
+background-color: #F9DFDC;
+border-color: #0C4271;
+border-width: 1px;
+width: 900px;
+height: 0px;
+}
+
+/*Headers*/
+  h1 {
+    color: #0A81AB
+}
+h2 {
+  color: #0A81AB
+}
+h3 {
+  color: #0A81AB
+}
+h4 {
+  color: #0A81AB
+}
+h5 {
+  color: #0A81AB
+}
+h6 {
+  color: #0A81AB
+}
+
+
+/*Classes*/
+.estebanName {
+  color: #0C4271;
+  font-family: 'Rock Salt', cursive;
+  font-size: 45px;
+}
+.niwatoriDevc {
+  color: #0C4271;
+  font-family: 'Montserrat', cursive;
+  font-size: 20px;
+}
+.headerMenu {
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+  color: #0A81AB;
+  text-align: center;
+}
+.workUrl {
+color: #000000;
+text-decoration-style: solid;
+}
